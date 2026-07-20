@@ -166,7 +166,7 @@ docs/
 
 The complete Master's Dissertation is available in:
 
-`docs/Master-Thesis.pdf`
+`docs/Dissertation Paper.docx`
 
 ---
 
